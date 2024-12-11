@@ -1,0 +1,33 @@
+{
+    "Dr. T. Terryn": [
+        {
+            "patient": "Pol de mol",
+            "datum": "2024-12-04",
+            "tijd": "15:00",
+            "reden": "pijn aan arm"
+        },
+        {
+            "patient": "jos de vos",
+            "datum": "2024-12-02",
+            "tijd": "12:00",
+            "reden": "controle"
+        }
+    ],
+    "Dr. R. Carpentier": [
+        {
+            "patient": "lien",
+            "datum": "2024-12-08",
+            "tijd": "16:00",
+            "reden": "pijn aan voet"
+        },
+        {
+            "patient": "milan",
+            "datum": "2024-12-02",
+            "tijd": "14:30",
+            "reden": "controle"
+        }
+    ],
+    "Dr. M. Ooghe": [],
+    "Dr. F. Titiljon": [],
+    "Dr. J. De Vos": []
+}

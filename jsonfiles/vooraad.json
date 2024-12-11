@@ -1,0 +1,280 @@
+{
+    "voorraadkamer": {
+      "categorieën": [
+        {
+          "naam": "Mediactie",
+          "items": [
+            {
+              "item": "Medische handschoenen (latex)",
+              "hoeveelheid": "1000",
+              "eenheid": "stuks",
+              "omschrijving": "Handschoenen voor algemene medische procedures",
+              "vervaldatum": "2025-08-01"
+            },
+            {
+              "item": "Medische handschoenen (niet-latex)",
+              "hoeveelheid": "800",
+              "eenheid": "stuks",
+              "omschrijving": "Handschoenen voor mensen met een latexallergie",
+              "vervaldatum": "2025-06-01"
+            },
+            {
+              "item": "Chirurgische maskers",
+              "hoeveelheid": "500",
+              "eenheid": "dozen",
+              "omschrijving": "Steriele maskers voor chirurgische ingrepen",
+              "vervaldatum": "2024-12-01"
+            },
+            {
+              "item": "Aseptische doekjes",
+              "hoeveelheid": "1200",
+              "eenheid": "pakken",
+              "omschrijving": "Doekjes voor antiseptische reiniging",
+              "vervaldatum": "2025-04-01"
+            },
+            {
+              "item": "Steriele gaasjes",
+              "hoeveelheid": "2000",
+              "eenheid": "pak",
+              "omschrijving": "Steriele gaasjes voor wondbehandeling",
+              "vervaldatum": "2025-07-15"
+            }
+          ]
+        },
+        {
+          "naam": "Kleding",
+          "items": [
+            {
+              "item": "Operatiejassen (steriel)",
+              "hoeveelheid": "150",
+              "eenheid": "stuks",
+              "omschrijving": "Steriele jassen voor operaties",
+              "vervaldatum": "2026-01-01"
+            },
+            {
+              "item": "Chirurgische mutsen",
+              "hoeveelheid": "400",
+              "eenheid": "stuks",
+              "omschrijving": "Mutsen voor chirurgen om steriele omstandigheden te waarborgen",
+              "vervaldatum": "2025-05-01"
+            },
+            {
+              "item": "Schoenhoezen",
+              "hoeveelheid": "500",
+              "eenheid": "dozen",
+              "omschrijving": "Bescherming voor schoenen in steriele omgevingen",
+              "vervaldatum": "2025-10-01"
+            },
+            {
+              "item": "Chirurgische schorten",
+              "hoeveelheid": "300",
+              "eenheid": "stuks",
+              "omschrijving": "Steriele schorten voor operatiekamers",
+              "vervaldatum": "2025-11-01"
+            },
+            {
+              "item": "Handdoeken (steriel)",
+              "hoeveelheid": "200",
+              "eenheid": "stuks",
+              "omschrijving": "Steriele handdoeken voor gebruik in de operatiekamer",
+              "vervaldatum": "2024-12-30"
+            }
+          ]
+        },
+        {
+          "naam": "Materiaal",
+          "items": [
+            {
+              "item": "Steriele naalden (groot)",
+              "hoeveelheid": "1500",
+              "eenheid": "stuks",
+              "omschrijving": "Steriele naalden voor chirurgisch gebruik",
+              "vervaldatum": "2025-08-01"
+            },
+            {
+              "item": "Steriele naalden (klein)",
+              "hoeveelheid": "1000",
+              "eenheid": "stuks",
+              "omschrijving": "Kleinere steriele naalden voor injecties",
+              "vervaldatum": "2025-09-15"
+            },
+            {
+              "item": "Chirurgische scharen",
+              "hoeveelheid": "150",
+              "eenheid": "stuks",
+              "omschrijving": "Scharen voor chirurgisch gebruik",
+              "vervaldatum": "2025-07-01"
+            },
+            {
+              "item": "Operatieverband",
+              "hoeveelheid": "800",
+              "eenheid": "rol",
+              "omschrijving": "Verband voor het afdekken van wonden",
+              "vervaldatum": "2025-06-15"
+            },
+            {
+              "item": "Klemmen",
+              "hoeveelheid": "500",
+              "eenheid": "stuks",
+              "omschrijving": "Klemmen voor chirurgie",
+              "vervaldatum": "2025-11-01"
+            }
+          ]
+        },
+        {
+          "naam": "Farmaceutische producten",
+          "items": [
+            {
+              "item": "Anesthetica (injectie)",
+              "hoeveelheid": "200",
+              "eenheid": "flacons",
+              "omschrijving": "Injecteerbare anesthetica voor algemene verdoving",
+              "vervaldatum": "2026-02-01"
+            },
+            {
+              "item": "Antibiotica (tabletten)",
+              "hoeveelheid": "5000",
+              "eenheid": "tabletten",
+              "omschrijving": "Tabletten voor behandeling van infecties",
+              "vervaldatum": "2025-12-01"
+            },
+            {
+              "item": "Antibiotica (injectie)",
+              "hoeveelheid": "1000",
+              "eenheid": "ampullen",
+              "omschrijving": "Injecteerbare antibiotica voor ernstige infecties",
+              "vervaldatum": "2025-08-01"
+            },
+            {
+              "item": "Analgetica (pijnstillers)",
+              "hoeveelheid": "2000",
+              "eenheid": "capsules",
+              "omschrijving": "Pijnstillers voor algemene pijnbestrijding",
+              "vervaldatum": "2025-05-01"
+            },
+            {
+              "item": "Vitamine C (injectie)",
+              "hoeveelheid": "300",
+              "eenheid": "ampullen",
+              "omschrijving": "Injecteerbare vitamine C voor herstel na operatie",
+              "vervaldatum": "2026-03-01"
+            }
+          ]
+        },
+        {
+          "naam": "Diagnostische apparatuur",
+          "items": [
+            {
+              "item": "Bloeddrukmeters",
+              "hoeveelheid": "25",
+              "eenheid": "stuks",
+              "omschrijving": "Apparaten voor het meten van de bloeddruk",
+              "vervaldatum": "2026-01-01"
+            },
+            {
+              "item": "Glucosemeters",
+              "hoeveelheid": "10",
+              "eenheid": "stuks",
+              "omschrijving": "Apparaten voor het meten van glucose in bloed",
+              "vervaldatum": "2025-12-01"
+            },
+            {
+              "item": "Echografie gel",
+              "hoeveelheid": "50",
+              "eenheid": "flessen",
+              "omschrijving": "Gel voor echografieprocedures",
+              "vervaldatum": "2025-07-15"
+            },
+            {
+              "item": "ECG-apparatuur",
+              "hoeveelheid": "5",
+              "eenheid": "stuks",
+              "omschrijving": "Apparatuur voor elektrocardiogrammen (ECG)",
+              "vervaldatum": "2026-06-01"
+            },
+            {
+              "item": "Thermometers",
+              "hoeveelheid": "100",
+              "eenheid": "stuks",
+              "omschrijving": "Digitale thermometers voor temperatuurmetingen",
+              "vervaldatum": "2025-09-01"
+            }
+          ]
+        },
+        {
+          "naam": "Schoonmaakmateriaal",
+          "items": [
+            {
+              "item": "Desinfectiemiddel (alcohol)",
+              "hoeveelheid": "100",
+              "eenheid": "flessen",
+              "omschrijving": "Alcoholisch desinfectiemiddel voor oppervlakken",
+              "vervaldatum": "2025-04-01"
+            },
+            {
+              "item": "Desinfectiemiddel (chlorine)",
+              "hoeveelheid": "200",
+              "eenheid": "flessen",
+              "omschrijving": "Chloorhoudend desinfectiemiddel voor zware reiniging",
+              "vervaldatum": "2025-10-01"
+            },
+            {
+              "item": "Reinigingsdoekjes",
+              "hoeveelheid": "1000",
+              "eenheid": "dozen",
+              "omschrijving": "Doekjes voor het reinigen van apparatuur",
+              "vervaldatum": "2024-12-15"
+            },
+            {
+              "item": "Mop en emmer",
+              "hoeveelheid": "50",
+              "eenheid": "stuks",
+              "omschrijving": "Schoonmaakset voor vloeren",
+              "vervaldatum": "2025-03-01"
+            },
+            {
+              "item": "Papieren handdoeken",
+              "hoeveelheid": "3000",
+              "eenheid": "rollen",
+              "omschrijving": "Papieren handdoeken voor hygiënisch gebruik",
+              "vervaldatum": "2025-01-01"
+            }
+          ]
+        },
+        {
+          "naam": "Overig",
+          "items": [
+            {
+              "item": "Brandblussers",
+              "hoeveelheid": "20",
+              "eenheid": "stuks",
+              "omschrijving": "Brandblussers voor noodgevallen",
+              "vervaldatum": "2025-12-01"
+            },
+            {
+              "item": "EHBO-kits",
+              "hoeveelheid": "50",
+              "eenheid": "kits",
+              "omschrijving": "Kits voor eerste hulp bij noodgevallen",
+              "vervaldatum": "2025-06-01"
+            },
+            {
+              "item": "Oogspoelflessen",
+              "hoeveelheid": "100",
+              "eenheid": "fles",
+              "omschrijving": "Spoelflessen voor oogirritatie",
+              "vervaldatum": "2025-08-01"
+            },
+            {
+              "item": "Hulpmiddelen voor patiënten",
+              "hoeveelheid": "150",
+              "eenheid": "stuks",
+              "omschrijving": "Ondersteuning voor patiënten, zoals rolstoelen, krukken",
+              "vervaldatum": "2026-02-01"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,16 @@
+[
+    {
+        "dokter": "Thibo Terryn (Bureau 102)",
+        "menu": "Kleding",
+        "bestelling": "sadsad",
+        "aantal": 5,
+        "status": "Geannuleerd"
+    },
+    {
+        "dokter": "Ramsey Carpentier (Bureau 103)",
+        "menu": "Medicatie",
+        "bestelling": "dafalgan",
+        "aantal": 50,
+        "status": "Besteld"
+    }
+]

@@ -1,0 +1,86 @@
+{
+    "Kamers": {
+        "categorieen": [
+            {
+                "naam": "Kamer 101",
+                "bezetingen": []
+            },
+            {
+                "naam": "Kamer 102",
+                "bezetingen": [
+                    {
+                        "patient": "Sophia de Vries",
+                        "dokter": "Thibo Terryn (Bureau 102)",
+                        "datum": "2024-12-06",
+                        "waarom": "sadsad"
+                    },
+                    {
+                        "patient": "Liam Jansen",
+                        "dokter": "Thibo Terryn (Bureau 102)",
+                        "datum": "2024-12-12",
+                        "waarom": "sadsa"
+                    }
+                ]
+            },
+            {
+                "naam": "Kamer 103",
+                "bezetingen": []
+            },
+            {
+                "naam": "Kamer 104",
+                "bezetingen": [
+                    {
+                        "patient": "Emma de Groot",
+                        "dokter": "Thibo Terryn (Bureau 104)",
+                        "datum": "2024-12-15",
+                        "waarom": "controle"
+                    }
+                ]
+            },
+            {
+                "naam": "Kamer 105",
+                "bezetingen": [
+                    {
+                        "patient": "Noah Bakker",
+                        "dokter": "Thibo Terryn (Bureau 105)",
+                        "datum": "2024-12-18",
+                        "waarom": "onderzoek"
+                    }
+                ]
+            },
+            {
+                "naam": "Kamer 106",
+                "bezetingen": [
+                    {
+                        "patient": "Lucas van Dijk",
+                        "dokter": "Thibo Terryn (Bureau 106)",
+                        "datum": "2024-12-20",
+                        "waarom": "operatie"
+                    }
+                ]
+            },
+            {
+                "naam": "Kamer 107",
+                "bezetingen": [
+                    {
+                        "patient": "Ava Meijer",
+                        "dokter": "Michiel Ooghe (Bureau 101)",
+                        "datum": "2024-12-22",
+                        "waarom": "revalidatie"
+                    }
+                ]
+            },
+            {
+                "naam": "Kamer 108",
+                "bezetingen": [
+                    {
+                        "patient": "Isabella de Boer",
+                        "dokter": "Thibo Terryn (Bureau 108)",
+                        "datum": "2024-12-25",
+                        "waarom": "chirurgie"
+                    }
+                ]
+            }
+        ]
+    }
+}

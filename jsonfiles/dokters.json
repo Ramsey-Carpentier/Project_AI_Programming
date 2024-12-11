@@ -1,0 +1,34 @@
+{
+  "dokters": [
+    {
+      "naam": "Michiel Ooghe",
+      "leeftijd": 47,
+      "specialisaties": ["Cardiologie", "Interne geneeskunde"],
+      "bureau": "Bureau 101"
+    },
+    {
+      "naam": "Thibo Terryn",
+      "leeftijd": 36,
+      "specialisaties": ["Neurologie", "Longspecialist"],
+      "bureau": "Bureau 102"
+    },
+    {
+      "naam": "Ramsey Carpentier",
+      "leeftijd": 32,
+      "specialisaties": ["Chirurgie", "Traumatologie"],
+      "bureau": "Bureau 103"
+    },
+    {
+      "naam": "Florian Titiljon",
+      "leeftijd": 52,
+      "specialisaties": ["Psychiatrie", "Gedragswetenschappen"],
+      "bureau": "Bureau 104"
+    },
+    {
+      "naam": "Jos de vos",
+      "leeftijd": 40,
+      "specialisaties": ["Gastro-enterologie", "Hepatologie"],
+      "bureau": "Bureau 105"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+    "patienten": [
+        {
+            "naam": "Emma de Groot",
+            "GeboorteDatum": "12-05-1985",
+            "geslacht": "Vrouw",
+            "adres": "Kerkstraat 5, 1000 Brussel",
+            "vorige_operaties": "keizersnede, appendicitis"
+        },
+        {
+            "naam": "Liam Jansen",
+            "GeboorteDatum": "03-02-1988",
+            "geslacht": "Man",
+            "adres": "Laan van Meerdervoort 42, 2000 Antwerpen",
+            "vorige_operaties": "heupoperatie, knieoperatie"
+        },
+        {
+            "naam": "Sophia de Vries",
+            "GeboorteDatum": "21-09-1979",
+            "geslacht": "Vrouw",
+            "adres": "Heerengracht 13, 3000 Leuven",
+            "vorige_operaties": "hieloperatie, tandextractie"
+        },
+        {
+            "naam": "Noah Bakker",
+            "GeboorteDatum": "15-11-1963",
+            "geslacht": "Man",
+            "adres": "Prins Hendrikstraat 8, 4000 Luik",
+            "vorige_operaties": "hartoperatie"
+        },
+        {
+            "naam": "Isabella de Boer",
+            "GeboorteDatum": "09-07-1996",
+            "geslacht": "Vrouw",
+            "adres": "Plein 1940 11, 5000 Namen",
+            "vorige_operaties": "knieoperatie"
+        },
+        {
+            "naam": "Lucas van Dijk",
+            "GeboorteDatum": "28-01-1973",
+            "geslacht": "Man",
+            "adres": "Wilhelminastraat 12, 6000 Charleroi",
+            "vorige_operaties": "schouderoperatie"
+        },
+        {
+            "naam": "Ava Meijer",
+            "GeboorteDatum": "30-12-1989",
+            "geslacht": "Vrouw",
+            "adres": "Zaanstraat 22, 7000 Mons",
+            "vorige_operaties": "gewrichtsoperatie, ooglaserbehandeling"
+        },
+        {
+            "naam": "Mason Smit",
+            "GeboorteDatum": "15-03-1960",
+            "geslacht": "Man",
+            "adres": "Haarlemmerdijk 15, 8000 Brugge",
+            "vorige_operaties": "hartoperatie"
+        },
+        {
+            "naam": "Olivia Janssen",
+            "GeboorteDatum": "25-06-1983",
+            "geslacht": "Vrouw",
+            "adres": "Van Woustraat 25, 9000 Gent",
+            "vorige_operaties": "appendicitis"
+        },
+        {
+            "naam": "Ethan Vermeulen",
+            "GeboorteDatum": "22-08-1972",
+            "geslacht": "Man",
+            "adres": "Damstraat 3, 3500 Hasselt",
+            "vorige_operaties": "polsbreuk"
+        },
+        {
+            "naam": "Mia Koster",
+            "GeboorteDatum": "14-04-1993",
+            "geslacht": "Vrouw",
+            "adres": "Rijksweg 18, 2300 Turnhout",
+            "vorige_operaties": "knee reconstruction, oogcorrectie"
+        },
+        {
+            "naam": "James van Leeuwen",
+            "GeboorteDatum": "11-11-1980",
+            "geslacht": "Man",
+            "adres": "Rosenburg 11, 2900 Schoten",
+            "vorige_operaties": "gewrichtsbeschadiging"
+        },
+        {
+            "naam": "Charlotte Boer",
+            "GeboorteDatum": "17-06-1969",
+            "geslacht": "Vrouw",
+            "adres": "Burgemeester de Boerlaan 9, 8500 Kortrijk",
+            "vorige_operaties": "heupoperatie, knieoperatie"
+        },
+        {
+            "naam": "Benjamin Janssens",
+            "GeboorteDatum": "03-01-1985",
+            "geslacht": "Man",
+            "adres": "Koopmansdijk 7, 4000 Liege",
+            "vorige_operaties": "niertransplantatie, galblaasoperatie"
+        },
+        {
+            "naam": "Ramsey Carpentier",
+            "GeboorteDatum": "21-06-2005",
+            "geslacht": "Man",
+            "adres": "Haezeweidestraat 3, 8920 Langemark",
+            "vorige_operaties": "geen"
+        }
+    ]
+}

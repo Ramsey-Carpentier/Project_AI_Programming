@@ -1,0 +1,27 @@
+{
+    "2024-12-05": {
+        "patient": "Lena Vermeulen",
+        "dokter": "Dr. Michiel Ooghe",
+        "operatie": "hartkatheterisatie"
+    },
+    "2024-12-10": {
+        "patient": "Kurt De Smet",
+        "dokter": "Dr. Ramsey Carpentier",
+        "operatie": "fractuur herstel"
+    },
+    "2024-12-15": {
+        "patient": "Marieke Janssen",
+        "dokter": "Dr. Florian Titiljon",
+        "operatie": "psychologische evaluatie"
+    },
+    "2024-12-20": {
+        "patient": "Tom Peeters",
+        "dokter": "Dr. Thibo Terryn",
+        "operatie": "neurochirurgische ingreep"
+    },
+    "2024-12-12": {
+        "patient": "Jos de vos",
+        "dokter": "Dr. T. Terryn",
+        "operatie": "neuscorrectie"
+    }
+}

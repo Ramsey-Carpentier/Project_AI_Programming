@@ -1,0 +1,39 @@
+{
+    "2024-12-12": {
+        "patient": "Jan de bosman",
+        "dokter": "Dr. R. Carpentier",
+        "operatie": "Knieschijf"
+    },
+    "2024-12-01": {
+        "patient": "Anna Meier",
+        "dokter": "Dr. Thibo Terryn",
+        "operatie": "hersenscan"
+    },
+    "2024-12-03": {
+        "patient": "Eva De Wit",
+        "dokter": "Dr. Florian Titiljon",
+        "operatie": "angststoornis behandeling"
+    },
+    "2024-12-07": {
+        "patient": "Jan Pauwels",
+        "dokter": "Dr. Michiel Ooghe",
+        "operatie": "bypass operatie"
+    },
+    "2024-12-14": {
+        "patient": "Sofie Lemoine",
+        "dokter": "Dr. Ramsey Carpentier",
+        "operatie": "heupvervangende operatie"
+    },
+    "2024-12-17": {
+        "patient": "Marc Lemmens",
+        "dokter": "Dr. Jos de Vos",
+        "operatie": "levertransplantatie"
+    },
+    "2024-12-22": {
+        "patient": "Claire Van Damme",
+        "dokter": "Dr. Thibo Terryn",
+        "operatie": "rugchirurgie"
+    }
+    
+    
+}
