@@ -175,7 +175,6 @@ def toon_gedetailleerde_kaart(event):
     canvas.tag_bind(evnt10, "<Button-1>", lambda e: open_wachtzaal(e, "Wachtzaal"))
     canvas.tag_bind(evnt11, "<Button-1>", lambda e: open_vooraadkamer(e, "Voorraadkamer"))
 
-    # Voeg een "Terug" knop toe om terug te keren naar de hoofdlayout
     global back_button
     back_button = tk.Button(window, text="↩︎", font=("Arial", 25), command=terug_naar_ziekenhuis,
                             bg="lightblue", fg="black")
@@ -185,7 +184,6 @@ def toon_gedetailleerde_kaart(event):
     teken_Toolbalk()
 
 def terug_naar_ziekenhuis():
-    # Remove the back button and redraw the main layout
     back_button.destroy()
     teken_ziekenhuis()
 
@@ -1321,7 +1319,7 @@ def open_Kamer(kamer):
                 patient = info.get("patient", "Onbekend")
                 dokter = info.get("dokter", "Onbekend")
                 operatie = info.get("waarom", "Onbekend")
-                tekst = f"{dag}\nPatient: {patient}\nDokter: {dokter}\nOperatie: {operatie}"
+                tekst = f"{dag}\n{patient}\n{dokter}\n{operatie}"
                 kleur = "red"
             else:
                 tekst = str(dag)
@@ -1329,7 +1327,7 @@ def open_Kamer(kamer):
 
             btn = tk.Button(
                 kalender_window, text=tekst, bg=kleur, fg="white", width=12, height=4,
-                command=lambda d=datum: toggle_datum(datum)
+                command=lambda d=datum: toggle_datum(d)
             )
             btn.grid(row=row, column=col, padx=2, pady=2)
 
